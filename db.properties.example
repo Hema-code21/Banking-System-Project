@@ -1,0 +1,7 @@
+# Copy this file to db.properties and put your own details here.
+db.url=jdbc:mysql://localhost:3306/bankdb
+db.user=root
+db.password=your_password
+
+# Password for the admin menu
+admin.password=admin123
